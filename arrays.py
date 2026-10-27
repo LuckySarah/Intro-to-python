@@ -36,4 +36,8 @@ people = [
 
 print(people[0]["name"])
 
+#loops allows to write a repeated program and you control it
+
+
+
 
