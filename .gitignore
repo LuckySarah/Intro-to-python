@@ -1,0 +1,6 @@
+# How to ignore a file that has important credentials
+.VENV/
+.env
+.idea/
+secrets/mpesa/
+# .gitignore
