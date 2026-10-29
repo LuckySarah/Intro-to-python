@@ -2,5 +2,18 @@
 .VENV/
 .env
 .idea/
-secrets/mpesa/
+*.mp3
+*.txt
+*.webm
+!requirements.txt #it will be included when pushing my codes
+
+# secrets/mpesa/
 # .gitignore
+# git init
+# git add .
+# git commit -m"Python basics"
+# git push
+
+
+# pip freeze > requirements.txt # to list all the items you have installed
+# pip install -r requirements.txt (to install/read all the things you need to run the project)
