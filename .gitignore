@@ -15,5 +15,5 @@
 # git push
 
 
-# pip freeze > requirements.txt # to list all the items you have installed
+# pip freeze > requirements.txt # to list all the items you have installedgit
 # pip install -r requirements.txt (to install/read all the things you need to run the project)
